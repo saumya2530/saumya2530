@@ -1,4 +1,5 @@
 ## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/30saumya_pandey)
 
 <!--
 **saumya2530/saumya2530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
