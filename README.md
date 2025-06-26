@@ -1,5 +1,16 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/30saumya_pandey)
+<h3>Leetcode stats:</h3>
+<p>
+  <img src="https://leetcard.jacoblin.cool/30saumya_pandey" alt="LeetCode Stats"/>
+</p>
+<h3>Github stats:</h3>
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Saumya2530&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+</p>
+<h3>Language used:</h3>
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya2530&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <!--
 **saumya2530/saumya2530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
